@@ -21,4 +21,4 @@ Caso deseje testar, será necessário criar manualmente a estrutura do banco no 
 ## 🚀 Como executar (opcional)
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Marixavq/CrudPHP2023.git
+   git clone https://github.com/Marixavq/CrudPHP2023
